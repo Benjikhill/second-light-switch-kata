@@ -1,0 +1,1 @@
+# second-light-switch-kata
